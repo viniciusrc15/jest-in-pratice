@@ -1,5 +1,3 @@
-sum = () => {
+export default function sum() {
     
 }
-
-module.exports = { sum }
